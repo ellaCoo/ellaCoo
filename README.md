@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Ella's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Ella's%20GitHub&fontSize=70&animation=scaleIn)
 
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
